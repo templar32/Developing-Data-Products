@@ -1,0 +1,13 @@
+# Developing-Data-Products
+
+Body Mass Index Calculator
+
+This is just a simple example of a Shiny app devised for the Developing
+Data Products course on Coursera.
+
+The BMI is used in a wide variety of contexts as a simple method to
+assess how much an individual's body weight departs from what is normal
+or desirable for a person of his or her height. There is however often
+vigorous debate, particularly regarding at which value of the BMI scale
+the threshold for overweight and obese should be set, but also about a
+range of perceived limitations and problems with the BMI. (Wikipedia)
